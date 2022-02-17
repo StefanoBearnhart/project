@@ -1,1 +1,32 @@
-<html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Stefano Bernardi_prove_progetto</title>
+    <link rel="stylesheet" href="attempt.css">
+  </head>
+  <body>
+
+      <nav class="navMenu">
+       <a href="#">Home</a>
+       <a href="#">Work</a>
+       <a href="#">About</a>
+       <div class="dot"></div>
+     </nav>
+<br>
+    <br>
+    <h2>Stefano Bernardi</h2>
+
+
+    <main>
+      <h3>I'm Stefano and I'm a developer</h3>
+      <img src="/progetto-HTML-CSS/Foto profilo.jpg" width="120" height="160">
+      <br>
+      <h5>Patience and calm are my superpowers.<br>Constantly seeking new way to solve problems</h5>
+      </main>
+      <br>
+      <br>
+      <p></p>
+      <br>
+  </body>
+</html>
